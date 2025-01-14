@@ -25,6 +25,7 @@ require("lazy").setup({
     -- import/override with your plugins
     -- { import = "lazyvim.plugins.extras.formatting.black" },
     -- { import = "lazyvim.plugins.extras.formatting.prettier" },
+    { import = "lazyvim.plugins.extras.editor.refactoring" },
     { import = "lazyvim.plugins.extras.lang.docker" },
     { import = "lazyvim.plugins.extras.lang.elixir" },
     { import = "lazyvim.plugins.extras.lang.erlang" },
