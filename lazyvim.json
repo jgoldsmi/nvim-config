@@ -1,8 +1,7 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.ai.codeium",
+    "lazyvim.plugins.extras.ai.copilot",
     "lazyvim.plugins.extras.coding.mini-surround",
-    "lazyvim.plugins.extras.coding.yanky",
     "lazyvim.plugins.extras.editor.dial",
     "lazyvim.plugins.extras.editor.mini-files",
     "lazyvim.plugins.extras.editor.refactoring",
@@ -18,6 +17,7 @@
     "lazyvim.plugins.extras.lang.toml",
     "lazyvim.plugins.extras.lang.typescript",
     "lazyvim.plugins.extras.lang.yaml",
+    "lazyvim.plugins.extras.lang.zig",
     "lazyvim.plugins.extras.test.core",
     "lazyvim.plugins.extras.util.chezmoi",
     "lazyvim.plugins.extras.util.dot",
