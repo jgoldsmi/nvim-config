@@ -1,0 +1,14 @@
+lua/config/options.lua
+  h_c1c82af49575d0 4-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "af2443fca5d9f508b922c473d0ab463a64fdda1f",
+  "prompts": {},
+  "humans": {
+    "h_c1c82af49575d0": {
+      "author": "Jonathon Goldsmith <jgoldsmith-headway@users.noreply.github.com>"
+    }
+  }
+}
